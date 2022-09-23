@@ -1,0 +1,13 @@
+body{
+    background-color: #393E46;
+    color: #4ECCA3;
+    font-size: 2rem;
+}
+.container{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    display: inline-block;
+    padding: 5%;
+}
